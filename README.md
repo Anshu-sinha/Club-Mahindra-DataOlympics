@@ -1,5 +1,5 @@
 # Club-Mahindra-DataOlympics
-Participate in Club Mahindra DataOlympics on Analytics vidya and secured 610 rank
+Participate in Club Mahindra DataOlympics on Analytics vidya and secured 592 rank
 Food & Beverages Spend Prediction 1n Club Mahindra Resort s
 Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) sales In their resorts.Members of Club Mare offered 
 a wide variety of items in either buffet or A la cane form. Following are some benefits that the model to predict the spend by a 
